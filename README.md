@@ -1,7 +1,12 @@
 # The World on Sunday — 22 November 2026
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/yanzzi12/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/yanzzi12/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 A make.fun entry for the daily bounty **news-image-20261122**
-("Sum up 22 November's world news in one image").
+("Sum up 22 November's world news in one image") — see the
+[bounty page on make.fun](https://make.fun/bounty/news-image-20261122).
 
 `main.ts` is a dependency-free Node 22 program (standard library only) that
 draws the day's front page entirely in code — a masthead with the date and six
